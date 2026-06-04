@@ -1,1 +1,1 @@
-print("Hello Im Rezi")
+print("Я домашка")
